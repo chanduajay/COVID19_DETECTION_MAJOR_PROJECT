@@ -1,1 +1,1 @@
-# COVID19_DETECTION_MAJOR_PROJECT
+# Covid 19 Detection with Using Chest X-Rays 4-2 Major Project
